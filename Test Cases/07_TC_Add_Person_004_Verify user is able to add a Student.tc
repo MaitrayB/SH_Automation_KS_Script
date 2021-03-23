@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>07_TC_Add_Person_004_Verify user is able to add a Student</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfc22f60-9791-452f-85d1-ff25c76dfb7e</testCaseGuid>
+</TestCaseEntity>

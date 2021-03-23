@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>12_TC_Invoice_004_Verify invoice fields are shown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08cc9a4f-2926-4078-8129-4a12f3d7e9a6</testCaseGuid>
+</TestCaseEntity>

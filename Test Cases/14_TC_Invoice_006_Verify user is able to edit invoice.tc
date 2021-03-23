@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>14_TC_Invoice_006_Verify user is able to edit invoice</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee14344c-50a0-4198-9243-b09b8202bb03</testCaseGuid>
+</TestCaseEntity>

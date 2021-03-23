@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>16_TC_Payment_001_Verify user is able to navigate to payment information</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf9c5f7d-f060-48dd-aaf5-025752a9f294</testCaseGuid>
+</TestCaseEntity>

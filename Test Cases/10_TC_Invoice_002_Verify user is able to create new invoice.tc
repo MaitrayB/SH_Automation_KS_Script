@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10_TC_Invoice_002_Verify user is able to create new invoice</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bad9aa19-dd01-4b07-86bb-9a2d0ee552e9</testCaseGuid>
+</TestCaseEntity>

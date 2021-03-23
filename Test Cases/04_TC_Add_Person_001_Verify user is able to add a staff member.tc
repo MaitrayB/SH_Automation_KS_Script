@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>04_TC_Add_Person_001_Verify user is able to add a staff member</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae3646f7-5b92-4f8b-96cd-33e4c02e10c6</testCaseGuid>
+</TestCaseEntity>

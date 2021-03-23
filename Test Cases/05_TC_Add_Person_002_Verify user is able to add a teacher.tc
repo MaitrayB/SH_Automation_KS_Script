@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>05_TC_Add_Person_002_Verify user is able to add a teacher</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f723b46-992a-4bbb-9ba4-bc8f1cf39082</testCaseGuid>
+</TestCaseEntity>

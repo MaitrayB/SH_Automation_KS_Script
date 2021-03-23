@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>08_TC_Add_Person_005_Verify user is able to add a Family</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b80fe8f-1b30-448b-b5eb-663ab6b308b2</testCaseGuid>
+</TestCaseEntity>
